@@ -1,0 +1,23 @@
+﻿  lab5_1.cpp
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(135,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(168,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(168,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(168,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(168,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(182,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(183,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(201,30): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(225,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(225,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(225,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(225,71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(227,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(228,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(229,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(243,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(244,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(245,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(256,59): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(189,17): warning C4101: xPos: неиспользованная локальная переменная
+C:\Users\student\source\repos\Golubkin_labs\lab5_1\lab5_1.cpp(189,23): warning C4101: yPos: неиспользованная локальная переменная
+  lab5_1.vcxproj -> C:\Users\student\source\repos\Golubkin_labs\lab5_1\x64\Debug\lab5_1.exe
